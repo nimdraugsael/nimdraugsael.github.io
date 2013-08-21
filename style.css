@@ -51,6 +51,7 @@ table {
 
 body {
   min-width: 1000px;
+  background: url(img/background.jpg);
 }
 
 .disclaimer {
@@ -93,6 +94,7 @@ body {
   margin-bottom: 10px;
   opacity: 0.8;
   -webkit-transition: opacity 0.5s ease;
+  opacity: 1;
 }
 
 .content img:hover {
